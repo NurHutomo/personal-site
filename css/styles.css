@@ -51,8 +51,8 @@ a {
 
 .bottom-container {
     background-color: #E5FDD1;
-    padding-top: 40px;
-    padding-bottom: 30px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 }
 
 .bottom-cloud {
@@ -160,4 +160,5 @@ hr {
 .footer-link {
     padding: 10px;
     margin: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
