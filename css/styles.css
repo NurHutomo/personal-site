@@ -162,3 +162,8 @@ hr {
     margin: 10px;
     font-family: 'Montserrat', sans-serif;
 }
+
+}
+.footer-link:hover {
+    color: #30e3cb;
+}
